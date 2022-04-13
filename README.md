@@ -8,9 +8,6 @@ Operating environment: Python 3.6 & Linux system
 
 We have unpacked the firmware and the extracted files are located in `firmware` directory.
 
-All the firmware could be downloaded from Google Drive:
-
-https://drive.google.com/file/d/1h2iLZ-QlUXrDkeDPhbTjS23SPjBhlEcJ/view?usp=sharing
 
 After executing, we get a path list in each directory, whoes name format is "{vendor}_{model}.txt".
 
@@ -24,9 +21,6 @@ You need to change this Boolean Variable `firmadyne` to store data in different 
 
 Especially, each device has different login credits, which need some manual work.
 
-We upload the response databases to Google Drive:
-
-https://drive.google.com/file/d/1-g9Jb7HZs05gR9eDYtv5Foot8-NueEKY/view?usp=sharing
 
 ### Identifying Unprotected Interfaces
 
